@@ -1,5 +1,5 @@
 <p align="center">
-  <b>English</b> | <a href="..">Русский</a>
+  <b>English</b> | <a href="../../">Русский</a>
 </p>
 
 ---
